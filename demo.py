@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 17 11:47:30 2020
 
-@author: vipul
-"""
 #variable declaration
 '''a='12.0'
 b=12

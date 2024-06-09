@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 17 12:34:52 2020
-
-@author: vipul
-"""
 
 class Employee:
     def __init__(self, first, second, contact, salary):

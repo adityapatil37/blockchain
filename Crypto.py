@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 19 10:12:19 2020
-
-@author: vipul
-"""
 
 #Add Transactions
 #Create Decentralisation
